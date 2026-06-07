@@ -1,9 +1,0 @@
-fetchers:
-    search_parameters:
-        enabled: False
-    FDSNFetcher:
-        domain:
-            circular:
-                maxradius: 0.1
-    CESMDFetcher:
-        enabled: False
