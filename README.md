@@ -1,4 +1,3 @@
-# Introduction
 The purpose of thie repository is to provide a github repository associated with the USGS
 ground-motion processing software [gmprocess](https://code.usgs.gov/ghsc/esi/groundmotion-processing).
 Please use that repository as the source for the code and documentation.
